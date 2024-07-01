@@ -1,0 +1,7 @@
+
+age,gender,cholesterol,bp,smoking,diabetes,exercise,heart_attack
+5,male,220,140,yes,no,yes,1
+0,female,180,130,no,yes,no,1
+5,male,190,110,yes,no,yes,0
+0,female,200,120,no,no,yes,0
+5,male,230,150,yes,yes,no,1
